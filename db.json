@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Impulsionar site BTE no ADS",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Marketing"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Criar App Bte Car",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Marketing"
+    },
+    {
+      "id": 4,
+      "name": "Design"
+    }
+  ]
+}
